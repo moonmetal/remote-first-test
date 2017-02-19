@@ -12,7 +12,7 @@ The Remote-First Test assesses if a company is remote-first or at least remote-f
 4. Are chats and group chats the standard for asynchronous communication?
 5. Are mixed meetings with remote and non-remote participants always held as a group video call where every particpant uses their own video call client?
 6. Do departments/project teams hold short daily group video calls?
-7. Are all company workflow and communications properly managed and documented in appropriate systems?
+7. Are all company workflows and communications properly managed and documented in appropriate systems?
 8. Are more than half of all contributors remote?
 9. Is the entire company communication held in English?
 10. Does the company do yearly team retreats?
@@ -39,7 +39,7 @@ Even if remote workers are the minority in a meeting, it is crucial that the mee
 ### Do departments/project teams hold short daily group video calls?
 Daily group video calls help to understand better topics related to the own work field and also get to know other team members. It creates the feeling that there is a real company and community to which every individual belongs to. These meetings should kept short (five to ten minutes).
 
-### Are all company workflow and communications properly managed and documented in appropriate systems?
+### Are all company workflows and communications properly managed and documented in appropriate systems?
 For remote team it's not possible to go to a meeting room and sketch some ideas on a whiteboard. So, communication must always be crystal clear, unambiguous and easy accessible. This means that every communication must be documentated in appropriate systems, e.g. project management in Trello, group chats in Slack, specifications in Google Doc, etc.
 
 ### Are more than half of all employees/freelancers remote?
